@@ -1,0 +1,20 @@
+{
+    "name": "mongodb-node-connections",
+    "version": "0.0.1",
+    "description": "Simple connection to a MongoDB Database Using Node.js",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {},
+    "keywords": [
+      "mongodb",
+      "mongo",
+      "nodejs",
+      "node"
+    ],
+    "author": "42proger",
+    "license": "MIT",
+    "dependencies": {
+      "mongodb": "^3.7.0"
+    }
+  }
+  
